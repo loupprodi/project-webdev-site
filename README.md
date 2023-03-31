@@ -1,7 +1,7 @@
 # wdev-site
 
 ## Project setup
-```
+
 > Status: Andamento
 
 ## Sobre o projeto
